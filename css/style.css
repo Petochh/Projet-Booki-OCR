@@ -414,6 +414,7 @@ footer section {
 
     .head-container nav {
         display: flex;
+        width: 100%;
     }
 
     .head-container nav a:hover {
@@ -423,9 +424,11 @@ footer section {
     }
 
     .head-container a {
+        margin: 0px;
         padding-bottom: 8px;
         border-bottom: 2px solid #F2F2F2;
         text-align: center;
+        width: 50%;
     }
 
     .recherche-hebergements {
