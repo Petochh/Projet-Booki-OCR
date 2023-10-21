@@ -515,11 +515,11 @@ footer section {
 
     footer {
         flex-direction: column;
-        padding-bottom: 4%;
     }
 
-    footer section {
-        width: 100%;
+    .text-footer {
+        padding-left: 4%; 
+        width: 95%;
         margin: 0px;
     }
 }
