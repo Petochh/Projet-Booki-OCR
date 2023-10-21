@@ -73,12 +73,12 @@ a {
 }
 
 nav a{
+    padding-top: 6px;
     margin: 0px 25px 0px 25px;
     align-items: flex-end;
 }
 
 nav a:hover {
-    padding-top: 6px;
     color: #0065fc;
     border-top: 2px #0065fc solid;
 }
@@ -417,7 +417,6 @@ footer section {
     }
 
     .head-container nav a:hover {
-        padding-bottom: 8px;
         color: #0065fc;
         border-top: 0px ;
         border-bottom: 2px #0065fc solid;
