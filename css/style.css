@@ -222,11 +222,14 @@ nav a:hover {
     flex-direction: column;
     justify-content: space-between;
     box-sizing: border-box;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .hebergements-cards .card-title {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-right: 0px;
 }
 
 .hebergements-cards .card-subtitle {
@@ -516,7 +519,7 @@ footer section {
 
     .hebergements-cards .card-title, .hebergements-cards .card-subtitle {
         margin-top: 0px;
-        margin-bottom: 2%px;
+        margin-bottom: 2%;
     }
     
     .hebergements-cards a {
