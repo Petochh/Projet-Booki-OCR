@@ -458,6 +458,8 @@ footer section {
     }
 
     .submit-icone {
+        position: relative;
+        left: -2%;
         display: flex;
         justify-content: center;
         align-items: center;
