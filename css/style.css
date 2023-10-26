@@ -96,7 +96,7 @@ a {
     font-size: 18px;
 }
 
-.search__form__icone__loc {
+.search__form__icon__loc {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -116,7 +116,7 @@ a {
     text-align: center;
 }
 
-.search__form__icone__button {
+.search__form__icon__button {
     display: none;
 }
 
@@ -160,7 +160,7 @@ a {
     margin-bottom: 35px;
 }
 
-.search__info__icone__info {
+.search__info__icon__info {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -452,7 +452,7 @@ a {
         border-right: none;
     }
 
-    .search__form__icone__button {
+    .search__form__icon__button {
         position: relative;
         left: -2%;
         display: flex;
