@@ -92,7 +92,7 @@ a {
     flex-direction: row;
     margin: 30px 0px 20px 0px;
     height: 49px;
-    width: 377px;
+    max-width: 377px;
     font-size: 18px;
 }
 
@@ -485,7 +485,7 @@ a {
     .search__filter__button {
         margin: 0% 4% 6% 0%;
         font-size: 14px;
-        width: calc(36% - 10px);
+        width: calc(33% - 10px);
         text-align: center;
         font-size: 14px;
     }
@@ -550,16 +550,5 @@ a {
         padding-left: 4%; 
         width: 95%;
         margin: 0px;
-    }
-}
-
-@media (max-width: 345px){
-    .search__filter__button {
-        width: 30%;
-    }
-
-    .search__form{
-        width: 320px;
-        
     }
 }
